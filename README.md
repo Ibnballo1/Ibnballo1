@@ -14,8 +14,6 @@
 - ⚡ Fun fact: I like doing exercise during my leisure time. I am a martial art students
 
 ## Languages 💻
-![HTML5]()
+![HTML5](https://img.icons8.com/ios/2x/html.png)
 
-![stats](https://github-readme-stats.vercel.app/api?username=ibnballo1&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnballo1)](https://github.com/joffreynk/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=ibnballo1&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnballo1)](https://github.com/joffreynk/github-readme-stats)
