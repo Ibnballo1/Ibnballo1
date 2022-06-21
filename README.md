@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on JavaScript Projects
 - 🌱 I’m currently learning Full-Stack web development at Microverse
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abdullateef-bello-1b8006228/), [Twitter](https://twitter.com/webprotekh)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abdullateef-bello-1b8006228/), [Twitter](https://twitter.com/webprotekh), [Gmail](belloabdullateef035#gmail.com)
 - 💡 I’m looking to collaborate on open source projects
 - 💬 Ask me about CSS (especially about responsiveness issues)
 - 😄 Pronouns: He/Him
@@ -20,4 +20,4 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=ibnballo1&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnballo1&theme=radical)](https://github.com/ibnballo1/github-readme-stats)
 
 ## Contact Me 💬
-[![Gmail](https://cdn.iconscout.com/icon/free/png-64/gmail-30-722694.png)](https://gmail.com/) [![Twitter](https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png)](https://twiiter.com/) [![Linkedin](https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png)](https://linkedin.com/)
+[![Gmail](https://cdn.iconscout.com/icon/free/png-64/gmail-30-722694.png)](belloabdullateef035@gmail.com) [![Twitter](https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png)](https://twitter.com/webprotekh) [![Linkedin](https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png)](https://www.linkedin.com/in/abdullateef-bello-1b8006228/)
