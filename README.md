@@ -10,7 +10,7 @@ As a software developer with a strong passion for website and web app developmen
 <br />
 
 - 🔭 I’m currently searching for a job
-- 🌱 I’m a certified Full-Stack web development
+- 🌱 I’m a certified Full-Stack web developer
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abdullateef-bello-1b8006228/), [Twitter](https://twitter.com/webprotekh), [Gmail](belloabdullateef035#gmail.com)
 - 💡 I’m looking to collaborate on open source projects
 - 💬 Ask me about front-end and back-end
