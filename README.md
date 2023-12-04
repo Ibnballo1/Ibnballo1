@@ -31,7 +31,7 @@ As a software developer with a strong passion for website and web app developmen
 <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://img.icons8.com/color/2x/postgreesql.png" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/bootstrap/" target="_blank"> <img src="https://img.icons8.com/color/2x/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/2x/python.png" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://www.sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/2x/sass.png" alt="sass" width="40" height="40"/> </a></p>
 
 ## GitHub Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ibnballo1&theme=radical&border_radius=10)](https://git.io/streak-stats)
