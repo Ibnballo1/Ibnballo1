@@ -15,7 +15,7 @@ As a software developer with a strong passion for website and web app developmen
 - 💡 I’m looking to collaborate on open source projects
 - 💬 Ask me about front-end and back-end
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like doing exercise during my leisure time. I am a martial art students
+- ⚡ Fun fact: I like doing exercise during my leisure time.
 
 <br /><br />
 
