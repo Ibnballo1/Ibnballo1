@@ -6,7 +6,7 @@
 
 As a software developer with a strong passion for website and web app development, open-source contributions, and public speaking, I thrive on utilizing technologies such as NextJS, Ruby, Ruby on Rails, React, TailwindCSS, TypeScript, Shadcn, PostgreSQL, Redux, JavaScript, HTML/CSS, and Bootstrap in my projects.
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="Coding" width="450" height="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <br />
 
 - 🔭 I’m currently searching for a job
