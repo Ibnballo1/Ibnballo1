@@ -22,11 +22,11 @@ As a software developer with a strong passion for website and web app developmen
 ## Languages and Tools 💻
 
 <p align="left">
-<a href="https://www.w3schools.com/html5/" target="_blank"> <img src="https://img.icons8.com/color/2x/html-5.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/2x/css3.png" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/javascript/" target="_blank"> <img src="https://img.icons8.com/fluency/2x/javascript.png" alt="js" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/javascript/" target="_blank"> <img src="https://img.icons8.com/fluency/2x/nextjs.png" alt="js" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/react/" target="_blank"> <img src="https://img.icons8.com/office/2x/react.png" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/javascript/" target="_blank"> <img src="https://img.icons8.com/fluency/2x/javascript.png" alt="js" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html5/" target="_blank"> <img src="https://img.icons8.com/color/2x/html-5.png" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/2x/css3.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/ruby/" target="_blank"> <img src="https://img.icons8.com/fluency/2x/ruby-programming-language.png" alt="ruby" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://img.icons8.com/color/2x/postgreesql.png" alt="postgresql" width="40" height="40"/> </a>
