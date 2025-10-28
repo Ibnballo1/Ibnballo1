@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Abdullateef Bello 👋
 
-As a software developer with a strong passion for website and web app development, open-source contributions, and public speaking, I thrive on utilizing technologies such as NextJS, Ruby, Ruby on Rails, React, TailwindCSS, TypeScript, Shadcn, PostgreSQL, Redux, JavaScript, HTML/CSS, and Bootstrap in my projects.
+As a software developer with a strong passion for website and web app development, open-source contributions, and public speaking, I thrive on utilizing technologies such as NextJS, Ruby, Ruby on Rails, React, Node.js TailwindCSS, TypeScript, Shadcn, PostgreSQL, Redux, JavaScript, HTML/CSS, and Bootstrap in my projects.
 
 <img align="right" alt="Coding" width="450" height="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <br />
@@ -20,11 +20,12 @@ As a software developer with a strong passion for website and web app developmen
 <br /><br />
 
 ## Languages and Tools 💻
-
+https://img.icons8.com/?size=100&id=54087&format=png&color=000000
 <p align="left">
 <a href="https://www.w3schools.com/javascript/" target="_blank"> <img src="https://img.icons8.com/fluency/2x/nextjs.png" alt="js" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/react/" target="_blank"> <img src="https://img.icons8.com/office/2x/react.png" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/javascript/" target="_blank"> <img src="https://img.icons8.com/fluency/2x/javascript.png" alt="js" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/nodejs/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/javascript/" target="_blank"> <img src="https://img.icons8.com/fluency/2x/javascript.png" alt="js" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html5/" target="_blank"> <img src="https://img.icons8.com/color/2x/html-5.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/2x/css3.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
