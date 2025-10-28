@@ -20,7 +20,7 @@ As a software developer with a strong passion for website and web app developmen
 <br /><br />
 
 ## Languages and Tools 💻
-https://img.icons8.com/?size=100&id=54087&format=png&color=000000
+
 <p align="left">
 <a href="https://www.w3schools.com/javascript/" target="_blank"> <img src="https://img.icons8.com/fluency/2x/nextjs.png" alt="js" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/react/" target="_blank"> <img src="https://img.icons8.com/office/2x/react.png" alt="react" width="40" height="40"/> </a>
